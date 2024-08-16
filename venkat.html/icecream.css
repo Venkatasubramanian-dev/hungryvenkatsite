@@ -1,0 +1,74 @@
+nav{
+    color: white;
+    background-color: darkgreen;
+    padding: 10px;
+}
+li{
+    display: inline;
+}
+h1,ul{
+    display: inline;
+}
+ul{
+    padding-left: 70%;
+    cursor: pointer;
+    color: black;
+}
+li:hover{
+    color: white;
+}
+.search{
+    text-align: center;
+    input{
+        width: 80%;
+        height: 30px;
+        margin: 20px;
+        border-width: 4px;
+        border-color: darkgreen;
+    }
+}
+.page2img{
+.box{
+    border-style: solid;
+    border-width: 20px;
+    border-color:darkgreen;
+    display: inline-flex;
+    color: darkgreen;
+}
+img{
+    width: 400px;height: 400px;
+}
+a{
+    display: block;text-align: center;font-size: 30px;
+}
+}
+.contact{
+    text-align: center;
+        font-size: 50px;
+        background-color: darkgreen;
+        color: white;
+        .line2{
+            font-size: 20px;
+        }
+    }
+.links{
+ul{
+        text-align: center;
+        padding-left: 40%;
+    
+    }
+    li{
+        display: block;
+    }
+}
+.end{
+    font-size: 25px;
+    text-align: center;
+    font-style: oblique;
+    color: darkgreen;
+}
+    
+
+
+
+
